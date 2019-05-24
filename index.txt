@@ -1,3 +1,2 @@
 hello this is git test
-new change 
-second change
+was all deleted 
